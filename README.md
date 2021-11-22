@@ -20,7 +20,7 @@ limitations under the License.
 
 # Negative Infinity
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > [Single-precision floating-point][ieee754] negative infinity.
 
@@ -83,8 +83,8 @@ console.log( FLOAT32_NINF );
 
 ## See Also
 
--   [`@stdlib/constants/float32/pinf`][@stdlib/constants/float32/pinf]: single-precision floating-point positive infinity.
--   [`@stdlib/constants/float64/ninf`][@stdlib/constants/float64/ninf]: double-precision floating-point negative infinity.
+-   <span class="package-name">[`@stdlib/constants/float32/pinf`][@stdlib/constants/float32/pinf]</span><span class="delimiter">: </span><span class="description">single-precision floating-point positive infinity.</span>
+-   <span class="package-name">[`@stdlib/constants/float64/ninf`][@stdlib/constants/float64/ninf]</span><span class="delimiter">: </span><span class="description">double-precision floating-point negative infinity.</span>
 
 </section>
 
@@ -135,8 +135,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/constants-float32-ninf/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/constants-float32-ninf?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/constants-float32-ninf.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/constants-float32-ninf/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
