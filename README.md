@@ -53,7 +53,9 @@ If no recognized module system is present, access bundle contents via the global
 ```html
 <script type="text/javascript">
 (function () {
+(function () {
     window.FLOAT32_NINF;
+})();
 })();
 </script>
 ```
@@ -87,10 +89,12 @@ var bool = ( FLOAT32_NINF === -Infinity );
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-ninf@umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
+(function () {
 
 console.log( FLOAT32_NINF );
 // => -Infinity
 
+})();
 })();
 </script>
 </body>
@@ -189,9 +193,9 @@ Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
 
 <!-- <related-links> -->
 
-[@stdlib/constants/float32/pinf]: https://github.com/stdlib-js/constants-float32-pinf/tree/umd
+[@stdlib/constants/float32/pinf]: https://github.com/stdlib-js/constants-float32-pinf/tree/umd/tree/umd
 
-[@stdlib/constants/float64/ninf]: https://github.com/stdlib-js/constants-float64-ninf/tree/umd
+[@stdlib/constants/float64/ninf]: https://github.com/stdlib-js/constants-float64-ninf/tree/umd/tree/umd
 
 <!-- </related-links> -->
 
