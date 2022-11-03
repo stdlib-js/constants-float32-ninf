@@ -31,7 +31,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import FLOAT32_NINF from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-ninf@esm/index.mjs';
+import FLOAT32_NINF from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-ninf@v0.0.7-esm/index.mjs';
 ```
 
 #### FLOAT32_NINF
@@ -62,7 +62,7 @@ var bool = ( FLOAT32_NINF === -Infinity );
 <body>
 <script type="module">
 
-import FLOAT32_NINF from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-ninf@esm/index.mjs';
+import FLOAT32_NINF from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-ninf@v0.0.7-esm/index.mjs';
 
 console.log( FLOAT32_NINF );
 // => -Infinity
