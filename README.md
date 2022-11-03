@@ -31,7 +31,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import FLOAT32_NINF from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-ninf@deno/mod.js';
+import FLOAT32_NINF from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-ninf@v0.0.7-deno/mod.js';
 ```
 
 #### FLOAT32_NINF
@@ -57,7 +57,7 @@ var bool = ( FLOAT32_NINF === -Infinity );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import FLOAT32_NINF from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-ninf@deno/mod.js';
+import FLOAT32_NINF from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-ninf@v0.0.7-deno/mod.js';
 
 console.log( FLOAT32_NINF );
 // => -Infinity
