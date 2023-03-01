@@ -145,8 +145,8 @@ Macro for [single-precision floating-point][ieee754] negative infinity.
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/constants/float32/pinf`][@stdlib/constants/float32/pinf]</span><span class="delimiter">: </span><span class="description">single-precision floating-point positive infinity.</span>
--   <span class="package-name">[`@stdlib/constants/float64/ninf`][@stdlib/constants/float64/ninf]</span><span class="delimiter">: </span><span class="description">double-precision floating-point negative infinity.</span>
+-   <span class="package-name">[`@stdlib/constants-float32/pinf`][@stdlib/constants/float32/pinf]</span><span class="delimiter">: </span><span class="description">single-precision floating-point positive infinity.</span>
+-   <span class="package-name">[`@stdlib/constants-float64/ninf`][@stdlib/constants/float64/ninf]</span><span class="delimiter">: </span><span class="description">double-precision floating-point negative infinity.</span>
 
 </section>
 
