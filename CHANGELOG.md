@@ -4,7 +4,19 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-09-06)
+## Unreleased (2025-10-15)
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#8200](https://github.com/stdlib-js/stdlib/issues/8200)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +24,7 @@
 
 <details>
 
+-   [`345429d`](https://github.com/stdlib-js/stdlib/commit/345429db65e8f31d94686b07f664a065a763f12f) - **chore:** fix JavaScript lint errors [(#8220)](https://github.com/stdlib-js/stdlib/pull/8220) _(by Jenish, Athan Reines)_
 -   [`b44e0a7`](https://github.com/stdlib-js/stdlib/commit/b44e0a71e52944270193e56c6cff4507bb085144) - **docs:** clean-up TSDoc examples _(by Philipp Burckhardt)_
 -   [`f9651e6`](https://github.com/stdlib-js/stdlib/commit/f9651e6411b4ebd3c95dcc6b46c02e6d5be009fa) - **test:** use .strictEqual() instead of .equal() and fix lint errors _(by Philipp Burckhardt)_
 -   [`9b9c746`](https://github.com/stdlib-js/stdlib/commit/9b9c7468b6c0c0d2575bbeedbee96c9bcee64b26) - **chore:** update test messages in `constants/float32` [(#6773)](https://github.com/stdlib-js/stdlib/pull/6773) _(by Harsh)_
@@ -26,9 +39,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Harsh
+-   Jenish
 -   Philipp Burckhardt
 
 </section>
